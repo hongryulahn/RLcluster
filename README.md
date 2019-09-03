@@ -11,6 +11,8 @@
 ```bash
 conda install TensorFlow
 conda install PyTorch
+conda install opencv
+pip install gym
 pip install ray
 pip install scikit-learn
 pip install pybind11
