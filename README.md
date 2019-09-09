@@ -13,7 +13,7 @@
 ```bash
 conda install TensorFlow
 conda install PyTorch
-conda install opencv
+pip install opencv-python-headless
 pip install gym
 pip install ray
 pip install scikit-learn
